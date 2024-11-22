@@ -29,21 +29,17 @@ Aşağıda, hesap makinesinin arayüzü yer almaktadır:
    ```bash
    git clone <repository-url>
    cd javascript-calculator
-HTML dosyasını çalıştırın:
+## HTML dosyasını çalıştırın:
 
-HTML dosyasını doğrudan tarayıcınızda açabilirsiniz:
-Örneğin, index.html dosyasını çift tıklayın.
-Alternatif olarak, bir yerel sunucu çalıştırabilirsiniz:
-bash
-Kodu kopyala
-python3 -m http.server
-Ardından tarayıcınızda http://127.0.0.1:8000 adresine gidin.
-Hesap makinesini kullanmaya başlayın!
+- **HTML dosyasını doğrudan tarayıcınızda açabilirsiniz:**
+  - Örneğin, `index.html` dosyasını çift tıklayın.
 
-📂 Proje İçeriği
-index.html: Projenin HTML yapısını içerir.
-style.css: Şık ve kullanıcı dostu bir tasarım için CSS dosyası.
-script.js: Hesap makinesinin işlevselliğini sağlayan JavaScript kodu.
+- **Alternatif olarak, bir yerel sunucu çalıştırabilirsiniz:**
+   ```bash
+   python3 -m http.server
+
+
+
 📋 Teknolojiler
 HTML5: Yapı için kullanıldı.
 CSS3: Modern ve şık bir tasarım için kullanıldı.
