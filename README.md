@@ -8,7 +8,8 @@ Bu proje, JavaScript kullanılarak oluşturulmuş temel bir **hesap makinesi uyg
 
 Aşağıda, hesap makinesinin arayüzü yer almaktadır:
 
-![Calculator Preview](image.png) <!-- Görsel dosyasını README ile aynı dizine kaydedin ve bu adı kullanın. -->
+![image](https://github.com/user-attachments/assets/9da3468c-d82a-42b9-ac44-e9c052005f48)
+
 
 ---
 
